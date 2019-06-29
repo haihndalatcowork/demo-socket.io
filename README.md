@@ -1,5 +1,5 @@
 # simple-demo-websocket
-Websocket using NodeJS, Socket.io
+A simple websocket demo (using NodeJS, Socket.io)
 # Ứng dụng chat đơn giản sử dụng Socket.io
 * Back-end: [Express](https://www.npmjs.com/package/express)
 * Front-end: [React.js](https://reactjs.org/)
